@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Godot-specific
 .import/
 .godot/
@@ -11,3 +12,8 @@ Thumbs.db
 *.exe
 *.pck
 *.zip
+=======
+# Godot 4+ specific ignores
+.godot/
+/android/
+>>>>>>> b1fde68 (Initial commit)
